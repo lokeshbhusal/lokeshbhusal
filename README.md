@@ -12,6 +12,7 @@ I'm a software developer based in Melbourne, Australia, building interactive, da
 ## 🛠️ Tech I work with
 
 **Frontend:** React 18, Angular, TypeScript, JavaScript (ES6+), Vite, Tailwind CSS, HTML5/CSS3
+
 **Backend:** Node.js, Express.js, RESTful APIs, SPARQL/GeoSPARQL
 **Data:** MySQL, PostgreSQL, MongoDB, Neo4j
 **Cloud & DevOps:** AWS (EC2, Bedrock, Location Service), Docker, Nginx, Git/GitHub, CI/CD
